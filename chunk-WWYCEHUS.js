@@ -1,0 +1,1 @@
+var e=[{id:1,name:"Admin",created_at:new Date("2025-07-01 20:50:43"),updated_at:new Date("2025-07-14 15:30:59")},{id:2,name:"Manager",created_at:new Date("2025-07-14 16:02:27"),updated_at:new Date("2025-07-14 16:02:27")}];export{e as a};
