@@ -7,7 +7,7 @@ A **Scalable**, **Developer-Ready** Angular 20+ frontend template built for crea
 ### 🔗 Buy Now
 
 🛒 [Purchase the Template](https://codingtechnyks.com/templates)  
-💼 [View Demo](https://yourdemolink.com)
+💼 [View Demo](https://nykz.github.io/Angular-Starter-Admin-Portal/)
 
 ---
 
